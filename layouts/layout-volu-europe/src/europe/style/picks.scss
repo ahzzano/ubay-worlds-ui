@@ -15,9 +15,9 @@
 
     &.Active {
       .PlayerName {
-        height: calc(2 * var(--pick-name-height)) !important;
-        margin-top: calc(-1 * var(--pick-name-height));
-        line-height: calc(2 * var(--pick-name-height));
+        height: calc(1.5 * var(--pick-name-height)) !important;
+        margin-top: calc(-0.5 * var(--pick-name-height));
+        line-height: calc(1.5 * var(--pick-name-height));
       }
     }
 
